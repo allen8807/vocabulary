@@ -1,0 +1,4 @@
+日期	词汇	词汇原型（名词单数形式，动词一般现代时态等，用于统计）	来源类型	来源名（中文[英文]）	章节细分	次数	例句	词伙
+2019/9/19	sexton	sexton	book	人类的故事[THE STORY OF MANKIND]	0	1		
+2019/9/19	hinges	hinge	book	人类的故事[THE STORY OF MANKIND]	0	1		
+2019/9/19	tangible	tangible	book	人类的故事[THE STORY OF MANKIND]	0	1		tangible darkness
